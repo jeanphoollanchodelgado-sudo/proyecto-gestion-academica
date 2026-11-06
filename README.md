@@ -1,3 +1,4 @@
+
 # Proyecto de Gestión Académica
 
 ## Descripción
@@ -12,3 +13,7 @@ información académica de estudiantes.
 - C++
 - Git
 - GitHub
+=======
+# proyecto-gestion-academica
+Sistema de gestión de información académica
+
